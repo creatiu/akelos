@@ -55,4 +55,17 @@ $dictionary=array (
   'In order to use the Akelos Terminal you need to define(\'AK_ENABLE_TERMINAL_ON_DEV\', true); on your config.php file' => 'In order to use the Akelos Terminal you need to define(\'AK_ENABLE_TERMINAL_ON_DEV\', true); on your config.php file',
   'Terminal disabled.' => 'Terminal disabled.',
   'On' => 'On',
+  'Configuration file /Users/daniel/Desktop/BermiLabs/github/akelos/config/config.php not found' => 'Configuration file /Users/daniel/Desktop/BermiLabs/github/akelos/config/config.php not found',
+  'Routes file /Users/daniel/Desktop/BermiLabs/github/akelos/config/routes.php not found.' => 'Routes file /Users/daniel/Desktop/BermiLabs/github/akelos/config/routes.php not found.',
+  'In order to use the Akelos Terminal you need to define(\'AK_ENABLE_TERMINAL_ON_DEV\', true); on your 
+config/environments/development.php file' => 'In order to use the Akelos Terminal you need to define(\'AK_ENABLE_TERMINAL_ON_DEV\', true); on your 
+config/environments/development.php file',
+  'The Akelos terminal is running as user <strong>%user</strong>.' => 'The Akelos terminal is running as user <strong>%user</strong>.',
+  'To disable the terminal, remove AK_ENABLE_TERMINAL_ON_DEV from your config.php file' => 'To disable the terminal, remove AK_ENABLE_TERMINAL_ON_DEV from your config.php file',
+  'Akelos Framework documentation' => 'Akelos Framework documentation',
+  '<strong>%application_name</strong>' => '<strong>%application_name</strong>',
+  'Akelos guides' => 'Akelos guides',
+  'This work is an adaptation from the <a href="http://guides.rubyonrails.org/credits.html">Ruby on Rails guides</a> to <a href="http://www.akelos.org/">Akelos</a>' => 'This work is an adaptation from the <a href="http://guides.rubyonrails.org/credits.html">Ruby on Rails guides</a> to <a href="http://www.akelos.org/">Akelos</a>',
+  'This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> License</a>' => 'This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike 3.0</a> License</a>',
+  'Error or empty response while running: %command' => 'Error or empty response while running: %command',
 );
